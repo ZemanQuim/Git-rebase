@@ -5,4 +5,5 @@
  * @Description: c
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
-let c = 3;
+let c = 1;
+c++;
