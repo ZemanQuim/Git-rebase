@@ -6,6 +6,3 @@
  * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved.
  */
 let c = 1;
-c++;
-2
-323
