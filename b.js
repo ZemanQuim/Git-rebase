@@ -9,3 +9,4 @@ let b;
 b = 3;
 console.log("b", b);
 1
+fix1
