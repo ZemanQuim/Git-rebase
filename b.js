@@ -9,5 +9,5 @@ let b;
 b = 3;
 console.log("b", b);
 console.log("b", b);
-console.log("b", b);
+console.log("c", c);
 console.log("b", b);
